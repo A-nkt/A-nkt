@@ -1,6 +1,6 @@
 ## About me
 I'm a master student at Nagoya Univ.<br>
-I'm a software enginner@Azapa Eng.
+I'm a software engineer@Azapa Eng.
 
 ## MyProgress
 ### library
