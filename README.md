@@ -2,7 +2,7 @@
 I'm a master student at Nagoya Univ.<br>
 I'm a software engineer@Azapa Eng (Intern).
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ryuji-oda/posts.svg)](http://qiita.com/ryuji-oda) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuji-oda/contributions.svg)](http://qiita.com/ryuji-oda) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryuji-oda/followers.svg)](http://qiita.com/ryuji-oda)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ryuji-oda/posts.svg)](https://qiita.com/A-nkt) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuji-oda/contributions.svg)](https://qiita.com/A-nkt) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryuji-oda/followers.svg)](https://qiita.com/A-nkt)
 
 <p>
   <a href="https://twitter.com/SyodoB" target="_blank">
