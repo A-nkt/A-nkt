@@ -14,7 +14,6 @@ I'm a software enginner, climate data analyst
 - [iLeaps-Japan2021](http://ileaps-japan.org/activities.html) Presenter
 
 ---
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/A-nkt/posts.svg)](https://qiita.com/A-nkt) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/A-nkt/contributions.svg)](https://qiita.com/A-nkt) [![My Qiita followers](https://qiita-badge.apiapi.app/s/A-nkt/followers.svg)](https://qiita.com/A-nkt)
 
 <!--p>
   <a href="https://twitter.com/To_Ankt" target="_blank">
