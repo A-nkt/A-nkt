@@ -1,4 +1,4 @@
-I'm a software enginner.
+I'm a SWE.
 
 ## Technical Skills
 - Frontend
