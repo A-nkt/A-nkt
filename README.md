@@ -16,7 +16,7 @@ I'm a SWE.
   - Framework
     - Django
 - Infra
-  - AWS
+  - AWS, Heroku
 
 ## License
 - AWS CLF, SAA, SOA, DVA
