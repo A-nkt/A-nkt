@@ -5,18 +5,18 @@ I'm a SWE.
   - Language
     - HTML, CSS, JavaScript
   - Framework
-    - Vue.js
+    - Vue.js, JQuery
   - UIComponent
-    - bootstrap, tailwindcss
+    - Bootstrap, Tailwindcss
   - Desgin
      - Figma, XD
 - Backend
   - Language
-    - Python, Go lang
+    - Python, Go Lang
   - Framework
     - Django
 - Infra
-  - AWS, Heroku
+  - AWS
 
 ## License
 - AWS CLF, SAA, SOA, DVA
@@ -24,7 +24,7 @@ I'm a SWE.
 ## Career
 - 2020.03 ~ 2022.03 名古屋大学大学院 大気環境・気候モデリング研究室 博士前期課程 修了（理学）
 - 2021.06 ~ 2022.03 AZAPAエンジニアリング株式会社
-- 2022.04 ~        株式会社ウェザーニューズ
+- 2022.04 ~ Current 株式会社ウェザーニューズ
 
 ## Outputs
 - [Zenn](https://zenn.dev/a_nkt)
