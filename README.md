@@ -26,6 +26,11 @@ I'm a SWE.
 - 2021.06 ~ 2022.03 AZAPAエンジニアリング株式会社
 - 2022.04 ~        株式会社ウェザーニューズ
 
+## Outputs
+- [Zenn](https://zenn.dev/a_nkt)
+- [Qiita](https://qiita.com/A-nkt)
+- [Personal Blog](https://www.yuta-nakata.net/)
+
 
 ## Softwares, Other Skills
 - [pygtool](https://github.com/earth06/pygtool3) Contributor
