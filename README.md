@@ -32,20 +32,4 @@ I'm a SWE.
 - [pywdcgg](https://github.com/A-nkt/pywdcgg) Comitter
 - [iLeaps-Japan2021](http://ileaps-japan.org/activities.html) Presenter
 
----
 
-<!--p>
-  <a href="https://twitter.com/To_Ankt" target="_blank">
-    <img alt="Twitter: SyodoB" src="https://img.shields.io/twitter/follow/To_Ankt.svg?style=social" />
-  </a>
-  <a href="https://twitter.com/dsduoa31" target="_blank">
-    <img alt="Twitter: SyodoB" src="https://img.shields.io/twitter/follow/dsduoa31.svg?style=social" />
-  </a>
-</p-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-nkt&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-nkt&theme=cobalt" />
-</a>
