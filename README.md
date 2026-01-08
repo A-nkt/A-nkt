@@ -2,7 +2,7 @@
 
 I'm a SWE as worked in weathernews since 2022.
 
-[![A-nkt GitHub stats](https://github-readme-stats.vercel.app/api?username=A-nkt)](https://github.com/A-nkt/github-readme-stats)
+[![A-nkt GitHub stats](https://github-readme-stats.vercel.app/api?username=A-nkt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Dev Skills
 
