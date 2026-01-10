@@ -4,11 +4,6 @@ I'm a SWE as worked in weathernews since 2022.
 
 [![A-nkt GitHub stats](https://my-private-repo-three.vercel.app/api?username=A-nkt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![A-nkt GitHub stats](https://my-private-repo-three.vercel.app/api/?username=A-nkt&show_icons=true&cache_bust=123)](https://github.com/anuraghazra/github-readme-stats)
-
-![A-nkt GitHub stats](https://my-private-repo-three.vercel.app/api/?username=A-nkt&show_icons=true&cache_bust=20260110)
-
-![test](https://my-private-repo-three.vercel.app/api/?username=A-nkt&show_icons=true)
 
 ## Dev Skills
 
